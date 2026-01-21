@@ -1,0 +1,14 @@
+{
+  "name": "sdh-digital-hub",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "firebase": "^10.7.1"
+  }
+}
